@@ -1,2 +1,2 @@
-# yumeryu-github.github.io
+# 勝手にDesignReview
 デザインレビューサービス用のサンプルサイト
