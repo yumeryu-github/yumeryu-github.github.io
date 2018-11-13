@@ -37,4 +37,4 @@ __[>詳しいレビュー結果<](/yodobashidotcommobile/review.md)__
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 3    | 4    | 2    | 3    | 2    | 3    | 4    | 3    |
 
-[目録](#tableofcontents)
+[-->目録](#tableofcontents)
