@@ -46,7 +46,7 @@
 - 一応動いてはいるので、0という評価はしない
 - 評価は個人的な経験による独断と偏見に基づく
 
-<a href="http://www2.cudo.jp/wp/" target="_blank">>Universal Color Designについて<</a>
+<a href="http://www2.cudo.jp/wp/" target="_blank">-->Universal Color Designについて</a>
 
 | 指標 | 用語 | 説明 |
 | -----|:----:|------|
