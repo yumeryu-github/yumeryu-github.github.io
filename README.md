@@ -66,6 +66,7 @@
 <a name="tableofcontents"></a>
 ## <span class="sectionlevel">目録</span>
 - [ヨドバシトットコム モバイル](#yodobashidotcommobile)
+- [インターネット版官報](#kanpointernetdesktop)
 
 <a name="yodobashidotcommobile"></a>
 ### <span class="targetsite">ヨドバシドットコム モバイル</span>
@@ -74,5 +75,15 @@ __[>詳しいレビュー結果<](/yodobashidotcommobile/review.md)__
 | 体験 | 機能 | 利用 | 発見 | 操作 | 学習 | 記憶 | 安心 | 識別 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 3    | 4    | 2    | 3    | 2    | 3    | 4    | 3    | 5    |
+
+[-->目録](#tableofcontents)
+
+<a name="kanpointernetdesktop"></a>
+### <span class="targetsite">インターネット版官報</span>
+__[>詳しいレビュー結果<](/kanpointernetdesktop/review.md)__
+
+| 体験 | 機能 | 利用 | 発見 | 操作 | 学習 | 記憶 | 安心 | 識別 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| 1    | 3    | 2    | 2    | 3    | 4    | 4    | 1    | 3    |
 
 [-->目録](#tableofcontents)

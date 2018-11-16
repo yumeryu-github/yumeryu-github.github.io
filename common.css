@@ -20,6 +20,9 @@ UL {
 .lessstronger {
   font-size: 110%;
 }
+.lessweaker {
+  font-size: 90%;
+}
 .importanttext {
   color: blue;
   font-size: 105%;
