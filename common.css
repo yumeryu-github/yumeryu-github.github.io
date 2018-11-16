@@ -1,0 +1,49 @@
+TR {
+  background-color: cornsilk;
+}
+UL {
+  color: darkviolet;
+  padding: 8px 15px 8px 0px;
+  display: inline-block;
+  vertical-align: top;
+  border-style: dotted;
+  border-radius: 8px;
+  border-color: darkviolet;
+}
+
+.targetsite {
+  color: olivedrab;
+}
+
+.lessstronger {
+  font-size: 110%;
+}
+.importanttext {
+  color: blue;
+  font-size: 105%;
+}
+.toplevel {
+  color: orange;
+}
+.sectionlevel {
+  color: sandybrown;
+}
+.paragraphlevel {
+  color: gold;
+}
+
+.reviewsection {
+  color: yellowgreen;
+}
+.reviewpartition {
+  color: darkgreen;
+  background: linear-gradient(lightyellow, greenyellow);
+}
+.seeyou {
+  color: indigo;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-decoration-line: underline overline;
+  text-decoration-color: seagreen;
+  text-decoration-style: wavy;
+}
