@@ -4,11 +4,13 @@ TR {
 UL {
   color: darkviolet;
   padding: 8px 15px 8px 0px;
+/*
   display: inline-block;
   vertical-align: top;
   border-style: dotted;
   border-radius: 8px;
   border-color: darkviolet;
+*/
 }
 
 .targetsite {
