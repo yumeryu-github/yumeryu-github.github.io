@@ -4,6 +4,15 @@ body {
 TR {
   background-color: cornsilk;
 }
+BODY {
+  width: 80vw;
+  margin-left: 10vw;
+  padding-left: 2.5vw;
+  padding-right: 2.5vw;
+  border-left: solid;
+  border-right: solid;
+  border-color: lightyellow;
+}
 
 .lessstronger {
   font-size: 110%;
@@ -93,15 +102,17 @@ TR {
   margin-bottom: 0.75rem;
 }
 .reviewpartition {
+  font-size: 110%;
   color: darkgreen;
   background: linear-gradient(lightyellow, greenyellow);
 }
 .reviewparagraph {
+  color: darkolivegreen;
   font-weight: bold;
 }
 .wideimageblock {
-  width: 95vw;
-  margin-left: 1vw;
+  width: 95%;
+  padding-left: 2%;
 }
 .wideimageblock img {
   width: 100%;
