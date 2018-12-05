@@ -1,20 +1,8 @@
+body {
+  font-family: 'Noto Sans JP';
+}
 TR {
   background-color: cornsilk;
-}
-UL {
-  color: darkviolet;
-  padding: 8px 15px 8px 0px;
-/*
-  display: inline-block;
-  vertical-align: top;
-  border-style: dotted;
-  border-radius: 8px;
-  border-color: darkviolet;
-*/
-}
-
-.targetsite {
-  color: olivedrab;
 }
 
 .lessstronger {
@@ -27,22 +15,96 @@ UL {
   color: blue;
   font-size: 105%;
 }
-.toplevel {
-  color: orange;
+.centercell {
+  text-align: center;
 }
-.sectionlevel {
-  color: sandybrown;
-}
-.paragraphlevel {
-  color: gold;
+.rightcell {
+  text-align: right;
 }
 
+.toplevel {
+  font-size: 200%;
+  color: orange;
+  margin-bottom: 1rem;
+}
+.sectionlevel {
+  font-size: 160%;
+  color: sandybrown;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+}
+.paragraphlevel {
+  font-size: 120%;
+  color: salmon;
+  margin-bottom: 0.25em;
+}
+
+.description {
+  letter-spacing: 1px;
+  margin-bottom: 0.5em;
+}
+.quote {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 2em;
+  margin-right: 1em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  background-color: lightgray;
+  font-family: 'Sawarabi Mincho';
+  font-size: 90%;
+}
+.jumpto {
+  text-decoration: none;
+  font-size: 90%;
+}
+.enumerate {
+  color: darkviolet;
+  padding: 8px 15px 8px 2em;
+  display: inline-block;
+  vertical-align: top;
+  border-style: dotted;
+  border-radius: 8px;
+  border-color: darkviolet;
+}
+.errorenumerate {
+  color: firebrick;
+  padding: 8px 15px 8px 2em;
+  display: inline-block;
+  vertical-align: top;
+  border-style: dashed;
+  border-radius: 3px;
+  border-color: firebrick;
+}
+.targetsite {
+  font-size: 110%;
+  color: olivedrab;
+}
+
+.targettitle {
+  font-size: 200%;
+  color: olivedrab;
+  margin-bottom: 1rem;
+}
 .reviewsection {
+  font-size: 160%;
   color: yellowgreen;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
 }
 .reviewpartition {
   color: darkgreen;
   background: linear-gradient(lightyellow, greenyellow);
+}
+.reviewparagraph {
+  font-weight: bold;
+}
+.wideimageblock {
+  width: 95vw;
+  margin-left: 1vw;
+}
+.wideimageblock img {
+  width: 100%;
 }
 .seeyou {
   color: indigo;
